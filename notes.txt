@@ -1,4 +1,0 @@
-Bonjour
-Je suis le fichier 
-notes.txt
-Merci !
